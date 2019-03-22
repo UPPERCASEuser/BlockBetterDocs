@@ -6,7 +6,7 @@
     </a>
 <h2 align="center">The Developers</h2></p><br>
 
-| <h3>NFLD99</h3> | <h3>DevilsLynAvenged</h3> | <h3>Tropix126</h3> | <h3>Waterin</h3> |
+| <h3>NFLD99</h3> | <h3>DevilsLynAvenged</h3> | <h3>Tropical</h3> | <h3>Waterin</h3> |
 |:-:|:-:|:-:|:-:|
 | <a href="https://github.com/NFLD99" target="_blank"> <img src="https://avatars0.githubusercontent.com/u/24623601?s=460&v=4" alt="" width="200px" height="200px"> </a> | <a href="https://github.com/DevilsLynAvenged" target="_blank"> <img src="https://avatars0.githubusercontent.com/u/30361475?s=460&v=4" alt="" width="200px" height="200px"> </a> | <a href="https://github.com/Tropix126" target="_blank"> <img src="https://avatars3.githubusercontent.com/u/42101043?s=460&v=4" alt="" width="200px" height="200px"> </a> | <a href="https://github.com/Waterin" target="_blank"> <img src="https://avatars0.githubusercontent.com/u/37584701?s=460&v=4" alt="" width="200px" height="200px"> </a> |
 
