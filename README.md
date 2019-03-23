@@ -1,5 +1,5 @@
-# -> BlockBetterDocs <-
-- >A simple yet effective tool for blocking BetterDocs related content. <-
+<h1 align="center">BlockBetterDocs</h1>
+  <p align="center" >A simple yet effective tool for blocking BetterDocs related content.<p>
   <p align="center">
     <a  href="https://github.com/anti-betterdocs/" target="_blank">
       <img src="https://nfld99.com/images/BetterDocsWarn.png" alt="" width="200px" height="200px">
