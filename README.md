@@ -4,6 +4,7 @@
     <a  href="https://github.com/anti-betterdocs/" target="_blank">
       <img src="https://nfld99.com/images/BetterDocsWarn.png" alt="" width="200px" height="200px">
     </a>
+[![Build Status](https://travis-ci.org/anti-betterdocs/BlockBetterDocs.svg?branch=master)](https://travis-ci.org/anti-betterdocs/BlockBetterDocs)
 <h2 align="center">The Developers</h2></p><br>
 
 | <h3>NFLD99</h3> | <h3>DevilsLynAvenged</h3> | <h3>Tropical</h3> | <h3>Waterin</h3> |
