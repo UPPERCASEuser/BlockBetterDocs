@@ -34,11 +34,20 @@ html body #app-mount .app-19_DXt .app-2rEoOp .layers-3iHuyZ .layer-3QrUeG .conta
     margin: 0 2px !important;
 }
 
-.embedLink-1G1K1D[href*="://betterdocs." i],
 .containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i] {
+  color: transparent !important;
+  cursor: not-allowed !important;
+  pointer-events: none !important;
+  letter-spacing: -1000px !important;
+}
+
+.containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i]:after {
+  content: 'Unverified Source Blocked - BetterDocs';
   color: var(--BetterDocsBlockerRed) !important;
+  margin-left: -8px;
   font-weight: bold;
   pointer-events: none;
+  letter-spacing: 0;
 }
 
 .embedLink-1G1K1D[href*="://betterdocs." i]::selection,
