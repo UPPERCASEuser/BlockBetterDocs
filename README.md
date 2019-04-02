@@ -22,4 +22,5 @@
 |:-:|:-:|:-:|:-:|
 | <a href="https://github.com/Ruben7173" target="_blank"> <img src="https://avatars1.githubusercontent.com/u/10380247?s=400&v=4" alt="" width="200px" height="200px"> </a> | <a href="https://github.com/strikepredator" target="_blank"> <img src="https://avatars1.githubusercontent.com/u/37594687?s=400&v=4" alt="" width="200px" height="200px"> </a> | <a href="https://github.com/goodname69" target="_blank"> <img src="https://avatars2.githubusercontent.com/u/42450504?s=400&v=4" alt="" width="200px" height="200px"> </a> | <a href="https://github.com/Vaxuuu" target="_blank"> <img src="https://avatars0.githubusercontent.com/u/37986102?s=400&v=4" alt="" width="200px" height="200px"> </a> |
   
-<p align="center" >Want to help? Join our server to help stop BetterDocs. https://discord.gg/v2TpNEG<p>
+<p align="center" >Want to help? Join our server to help stop BetterDocs.<p>
+<center><iframe src="https://discordapp.com/widget?id=556962006574301227&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe></center>
