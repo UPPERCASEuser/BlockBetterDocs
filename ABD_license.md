@@ -10,7 +10,7 @@
 
 ---
 ### Contact:
-+ Discord: Username#9999 (USER ID)
++ Discord: Username#9999 (USER ID) or https://is.gd/antibetterdocsserver
 ---
 ### Allowed
 #### Users are permitted...
@@ -40,4 +40,4 @@
 ---
 **All these terms apply to all files in this repository**
 ---
-Copyright © 2019 - Username
+Copyright © 2019 - Block Better Docs
